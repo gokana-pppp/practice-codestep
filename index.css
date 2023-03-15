@@ -1,0 +1,69 @@
+body {
+    background-color: #f4f9ff;
+}
+
+.title {
+    width: 1000px;
+    margin: 20px auto 10px auto;
+}
+
+.title-logo {
+    width: 165px;
+    margin-top: 50px;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto 50px auto;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+p {
+    font-size: 13.5px;
+}
+
+.contents-1 {
+    text-align: center;
+}
+
+.mainvisual {
+    max-width: 100%
+}
+
+.index-wrapper .container {
+    background-color: #fff;
+    padding: 30px 0;
+    margin: auto;
+}
+
+.contents-2 {
+    display: block;
+    max-width: 600px;
+    margin: auto;
+}
+
+.detail-wrapper {
+    margin-bottom: 100px;
+}
+
+.detail {
+    list-style: none;
+    display: flex;
+}
+
+.book-photo {
+    margin-right: 60px;
+}        
+
+.detail-1 {
+    border-bottom: 1px solid #d3d3d3;
+}
+
+.footer {
+    font-size: 5px;
+    margin-left: 420px;
+    padding: 20px 0;
+}

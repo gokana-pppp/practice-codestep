@@ -1,0 +1,39 @@
+/*　タブレット・スマホで見る時のレスポンシブを書いていきます　*/
+
+/*タブレットで見る時　画面幅：670px〜1000pxの時*/
+@media (max-width: 1000px){
+  .container {
+    width: 100%;
+  }
+
+  .footer {
+    margin-left: initial;
+    margin-left: 150px;
+  }
+}
+
+/* スマホで見る時　画面幅：〜670pxの時　*/
+@media (max-width: 670px) {
+  .content-2 {
+    width: 100%;
+  } 
+
+  .detail {
+    display: block;      
+  }
+
+  .book-photo {
+    width: 85%;
+    margin-right: initial;
+    margin-left: 40px;
+  }
+
+  .book-detail {
+    margin-left: 40px;
+  }
+
+  .footer {
+    margin-left: initial;
+    margin-left: 70px;
+  }
+}
